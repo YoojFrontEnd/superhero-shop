@@ -11,3 +11,37 @@
 .button--full{
   display: block;
 }
+
+.heading1 h1{
+  font-family: 'Roboto', sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  font-stretch: condensed;
+}
+
+.heading2 h2{
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  font-stretch: condensed;
+}
+
+.heading3 h3{
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.heading4 h4{
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  font-stretch: condensed;
+}
+
+.heading5 h5{
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: condensed;
+}
