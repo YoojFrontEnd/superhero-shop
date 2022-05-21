@@ -11,37 +11,52 @@
 .button--full{
   display: block;
 }
-
-.heading1 h1{
-  font-family: 'Roboto', sans-serif;
+.heading1 {
   font-size: 36px;
-  font-weight: 600;
+  font-weight: 500;
   font-stretch: condensed;
+  color: #000000;
+  line-height: 42px;
 }
 
-.heading2 h2{
-  font-family: 'Roboto', sans-serif;
+.heading2 {
   font-size: 24px;
-  font-weight: 600;
+  font-weight: 500;
   font-stretch: condensed;
+  color: #000000;
+  line-height: 28px;
+  text-transform: uppercase;
 }
 
-.heading3 h3{
-  font-family: 'Roboto', sans-serif;
+.heading3 {
   font-size: 18px;
   font-weight: 700;
+  color: #000000;
+  line-height: 21px;
 }
 
-.heading4 h4{
-  font-family: 'Roboto', sans-serif;
+.heading4 {
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 500;
   font-stretch: condensed;
+  color: #000000;
+  line-height: 19px;
 }
 
-.heading5 h5{
-  font-family: 'Roboto', sans-serif;
+.heading5 {
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 500;
   font-stretch: condensed;
+  color: #000000;
+  line-height: 16px;
 }
+
+
+
+
+
+
+
+
+
+
