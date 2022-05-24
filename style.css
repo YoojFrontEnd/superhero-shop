@@ -51,6 +51,38 @@
   line-height: 16px;
 }
 
+.button-basic {
+  display: inline-block;
+  background: #EE171F;
+  color: #FFFFFF;
+  padding: 5px 25px;
+  border-radius: 11.5px;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 500;
+  position: relative;
+}
+
+.button a {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+}
+
+.button-basic_full {
+  display: block;
+}
+
+.button-basic_white {
+  background: #FFFFFF;
+  color: #000000;
+}
+
+.button-basic_shadow {
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.25);
+}
 
 
 
